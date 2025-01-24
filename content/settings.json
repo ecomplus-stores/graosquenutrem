@@ -1,7 +1,7 @@
 {
   "domain": "graosquenutrem.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#3b674a",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -14,13 +14,13 @@
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "font_family": "_",
+  "font_family": "Poppins",
   "favicon": "/img/uploads/favicon.png",
-  "icons_font": "_",
+  "icons_font": "font-awesome",
   "country_code": "BR",
-  "secondary_color": "#393e46",
-  "icon": "/img/icon.png",
+  "secondary_color": "#f3c032",
+  "icon": "/img/uploads/small_icon.png",
   "store_id": 51560,
   "description": "graosquenutrem",
-  "large_icon": "/img/large-icon.png"
+  "large_icon": "/img/uploads/large_icon.png"
 }
