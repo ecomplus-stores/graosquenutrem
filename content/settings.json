@@ -4,7 +4,7 @@
   "primary_color": "#3b674a",
   "theme": {
     "bootswatch": "minty",
-    "custom": "_"
+    "custom": "ecom-beauty"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/graosquenutrem",
