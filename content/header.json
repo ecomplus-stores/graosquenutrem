@@ -1,6 +1,10 @@
 {
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/granola-salgada?Granola Salgada",
+      "/nuts?Nuts",
+      "/biscoito?Biscoito"
+    ],
     "random": 6,
     "full_width": false
   },
