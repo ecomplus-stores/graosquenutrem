@@ -8,7 +8,7 @@
       "full_width": true,
       "slides": [
         {
-          "img": "/img/uploads/nuts_banner.jpg",
+          "img": "template/public/img/uploads/nuts_banner.jpg",
           "link": "",
           "alt": "",
           "start": "",
