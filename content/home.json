@@ -8,12 +8,9 @@
       "full_width": true,
       "slides": [
         {
-          "img": "template/public/img/uploads/nuts_banner.jpg",
-          "link": "",
-          "alt": "",
           "start": "",
           "end": "",
-          "mobile_img": ""
+          "img": "/img/uploads/teste.jpg"
         }
       ]
     },
