@@ -26,6 +26,16 @@
       "page": ""
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 4,
+      "page": 1,
+      "headless": false,
+      "link": "",
+      "sort": "views",
+      "title": "Kit Granola Favorita"
+    },
+    {
       "type": "custom-html",
       "html": "<div class=\"sobre_cell_container row\">\n  <!-- Container principal para a seção -->\n\n  <div class=\"sobre_cell_title col-12\">\n    <!-- Título da seção -->\n    \n </div>\n\n  <div class=\"sobre_cell_text col-md-6 col-12\">\n    <!-- Texto da seção -->\n    \n    <h5>Sejam bem-vindos aos Graos que Nutrem</h5>\n    <!-- Subtítulo -->\n\n    <p></p>\n    \n    <p>Grãos que Nutrem é mais do que granola, é um <b>gesto de carinho em cada mordida.</b> Selecionamos <b>ingredientes naturais e nutritivos</b> com todo o cuidado, garantindo <b>qualidade e sabor em cada receita.</b> Nosso compromisso é oferecer um alimento saudável, feito com dedicação e amor, para tornar seu <b>dia mais leve e equilibrado.</b></p>\n    <!-- Descrição sobre a Strong -->\n\n  \n  </div>\n\n  <div class=\"sobre_cell_video col-md-6 col-12\">\n    <!-- Vídeo da seção -->\n\n    <p>Cada lote é preparado artesanalmente, com atenção aos detalhes e respeito aos ingredientes, para que você <b>sinta o sabor autêntico e a crocância perfeita.</b> Acreditamos que uma alimentação saudável pode ser deliciosa, e é isso que entregamos em cada pote: <b>nutrição, afeto e prazer em cada colherada.</b></p>\n    \n  </div>\n</div>"
     }
