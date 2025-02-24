@@ -19,21 +19,11 @@
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": null,
-      "sort": "sales",
+      "sort": null,
       "title": "Escolha a Granola que nutre com sabor",
       "headless": false,
       "limit": 4,
       "page": ""
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 4,
-      "page": 1,
-      "headless": false,
-      "link": "",
-      "sort": "views",
-      "title": "Kit Granola Favorita"
     },
     {
       "type": "custom-html",
