@@ -17,7 +17,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
+      "shuffle": false,
       "collection_id": null,
       "sort": "slug",
       "title": "Escolha a Granola que nutre com sabor",
