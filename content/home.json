@@ -16,6 +16,11 @@
       ]
     },
     {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "slug"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "collection_id": null,
@@ -28,11 +33,6 @@
     {
       "type": "custom-html",
       "html": "<div class=\"extra-page\">\n  <section class=\"md-content mb-5 pt-1 pt-sm-2 pt-lg-3\">\n    <div class=\"\">\n      <h5>Sejam bem-vindos aos Grãos que Nutrem</h5>\n    <!-- Subtítulo -->\n\n    <p></p>\n    \n    <p>Grãos que Nutrem é mais do que granola, é um <b>gesto de carinho em cada mordida.</b> Selecionamos <b>ingredientes naturais e nutritivos</b> com todo o cuidado, garantindo <b>qualidade e sabor em cada receita.</b> Nosso compromisso é oferecer um alimento saudável, feito com dedicação e amor, para tornar seu <b>dia mais leve e equilibrado.</b></p>\n    <!-- Descrição sobre a Strong -->\n    <p>Cada lote é preparado artesanalmente, com atenção aos detalhes e respeito aos ingredientes, para que você <b>sinta o sabor autêntico e a crocância perfeita.</b> Acreditamos que uma alimentação saudável pode ser deliciosa, e é isso que entregamos em cada pote: <b>nutrição, afeto e prazer em cada colherada.</b></p>\n      \n    </div>\n  </section>\n</div>"
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "sales"
     }
   ]
 }
