@@ -2,24 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>https://graosquenutrem.com.br/granola-salgada</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://graosquenutrem.com.br/granola-tradicional</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://graosquenutrem.com.br/kits</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://graosquenutrem.com.br/gr_tradicional</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -65,6 +47,24 @@
       <loc>https://graosquenutrem.com.br/kit-3-granolas-zero-acucar</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://graosquenutrem.com.br/granola-salgada</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://graosquenutrem.com.br/granola-tradicional</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://graosquenutrem.com.br/kits</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
     <url>
