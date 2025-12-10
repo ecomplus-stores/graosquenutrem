@@ -18,7 +18,7 @@
     {
       "type": "dynamic-showcase",
       "load_more": false,
-      "sort": "slug"
+      "sort": "news"
     },
     {
       "type": "custom-html",
