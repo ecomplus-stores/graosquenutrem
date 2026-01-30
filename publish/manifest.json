@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.6380821dfdd99e4be843b4e27317329b.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.95433211f07893fe707f1a5a1306e398.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.1c83ce971ceaaa788b99b0e4a738bbe6.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.b909112c698324920a09d34a160780bd.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.5d9f88bf9e6d7058a3096d73de643daf.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "graosquenutrem",
+  "short_name": "Grãos que Nutrem",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Grãos que Nutrem é uma empresa especializada em granola artesanal saudável, feita com ingredientes naturais e de alta qualidade. Nosso foco é oferecer um produto nutritivo e saboroso, ideal para quem busca uma alimentação equilibrada. ",
+  "background_color": "#ffffff",
+  "theme_color": "#3b674a"
+}
