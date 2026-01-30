@@ -10,13 +10,8 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-natal_kits.webp"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner-natal.webp",
-          "mobile_img": "/img/uploads/banner_graosquenutrem_natal_mobile.webp"
+          "img": "/img/uploads/banner_graosquenutrem.webp",
+          "mobile_img": "/img/uploads/mobile_banner.webp"
         }
       ]
     },
